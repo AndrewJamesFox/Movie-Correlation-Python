@@ -28,6 +28,7 @@ The project was completed in Jupyter.
 *Jupyter*
 <br>
 The version of the notebook server is: 6.5.4
+<br>
 The server is running on this version of Python:
-
+<br>
 Python 3.11.4 (main, Jul  5 2023, 09:00:44) [Clang 14.0.6 ]
